@@ -1,0 +1,1 @@
+{"bin":{"wita-time":"index.js"},"description":"Indonesian timezone converter (WIB / WITA / WIT) — tiny library + CLI, zero dependencies","engines":{"node":">=16"},"keywords":["timezone","indonesia","wita","wib","wit","asia-makassar","cli"],"license":"MIT","main":"index.js","name":"wita-time","scripts":{"test":"node test.js"},"version":"1.0.0"}
